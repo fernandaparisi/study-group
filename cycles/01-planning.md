@@ -1,6 +1,7 @@
 # Ciclo 01: Planejamento
 
 **Data inicial:** 22/11/2016
+
 **Data final:** 28/11/2016
 
 ## Introdução
