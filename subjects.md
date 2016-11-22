@@ -1,0 +1,16 @@
+- Vue.js
+- Angular2
+- Typescript
+- React
+- Ember
+- Phaser
+- Johnny-Five
+- Ionic
+- Three.js
+- Mo.js
+- Snap.svg
+- Gulp
+- Node
+- Preprocessors
+- Code standards
+- gremlins.js
