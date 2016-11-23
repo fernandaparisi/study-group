@@ -36,3 +36,16 @@
 
 ###Native CSS variables
 - [What is the difference between CSS variables and preprocessor variables?](https://css-tricks.com/difference-between-types-of-css-variables/)
+
+###Jasmine
+
+###Sketch
+
+###ES6
+
+###Selenium (ou similares)
+
+###Docker
+
+
+
