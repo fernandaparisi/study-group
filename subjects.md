@@ -47,5 +47,8 @@
 
 ###Docker
 
+###Browser engine
+- [Behind the scenes of modern web browsers](http://taligarsiel.com/Projects/howbrowserswork1.htm)
+
 
 
