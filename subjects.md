@@ -54,5 +54,4 @@ Variáveis e funções nativas do CSS, que não vinculadas a um preprocessor
 Como um navegador renderiza as informações na tela
 - [Behind the scenes of modern web browsers](http://taligarsiel.com/Projects/howbrowserswork1.htm)
 
-
-
+###Inspetor Chrome
