@@ -41,14 +41,22 @@ Variáveis e funções nativas do CSS, que não vinculadas a um preprocessor
 - [What is the difference between CSS variables and preprocessor variables?](https://css-tricks.com/difference-between-types-of-css-variables/)
 
 ###Jasmine
+Jasmine is an open source testing framework for JavaScript.[2] It aims to run on any JavaScript-enabled platform, to not intrude on the application nor the IDE, and to have easy-to-read syntax. It is heavily influenced by other unit testing frameworks, such as ScrewUnit, JSSpec, JSpec, and RSpec.[3]
+- [JS Testing with Jasmine](https://www.freelancer.com/community/articles/js-testing-with-jasmine)
 
 ###Sketch
 
 ###ES6
+ECMAScript 6 (ES6, often referred to as “Harmony”) is the sixth major release of the ECMAScript language specification. ECMAScript is the “proper” name for the language commonly referred to as JavaScript.
+- [What’s New In The Next Version Of JavaScript](https://www.smashingmagazine.com/2015/10/es6-whats-new-next-version-javascript/) 
 
-###Selenium (ou similares)
+###Selenium
+Selenium is a portable software testing framework for web applications. Selenium provides a record/playback tool for authoring tests without learning a test scripting language (Selenium IDE). It also provides a test domain-specific language (Selenese) to write tests in a number of popular programming languages.
 
 ###Docker
+Docker is a tool designed to make it easier to create, deploy, and run applications by using containers. Containers allow a developer to package up an application with all of the parts it needs, such as libraries and other dependencies, and ship it all out as one package.
+- [What is docker?](https://opensource.com/resources/what-docker) 
+
 
 ###Browser engine
 Como um navegador renderiza as informações na tela
