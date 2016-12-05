@@ -20,7 +20,15 @@ Este ciclo pretende organizar e orientar os ciclos seguintes do grupo de estudos
 ## Log
 
 - **22/11/2016:** Projeto e repositório iniciados. Documentação criada.
+- **02/12/2016:** Novos topicos e alguns assuntos removidos - @hbmuller
+- **01/12/2016:** Adding description to some subjects - @nelsonmlneto
+- **05/12/2016:** Ciclo 01 encerrado
+
 
 ## Postmortem
 
-*Elaborar ao fim do ciclo*
+O final do ciclo foi atrasado em um uma semana e alguns dos milestones foram deixados para o próximo ciclo.
+Apesar disso, tivemos reuniões onde estabelecemos as responsabilidadedes e a metodologia.
+
+Foi realizado um questionários para dar nota para os assuntos propostos. Esses dados serão usados para ordernar
+os assuntos no ciclo seguinte.

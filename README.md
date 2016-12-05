@@ -7,3 +7,4 @@ Grupo de estudos de novas tecnologias.
 
 ## Documentação de ciclos
 - Ciclo 01: [Planejamento](cycles/01-planning.md)
+- Ciclo 02: [Firebase](cycles/02-firebase.md)
