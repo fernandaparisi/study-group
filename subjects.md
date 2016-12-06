@@ -21,6 +21,7 @@
 ###Node
 
 ###Preprocessors
+- [Loops in CSS Preprocessors](https://css-tricks.com/loops-css-preprocessors/)
 
 ###Code standards
 Criação de padrões pra que códigos sejam de manutenção fácil e que a curva de aprendizado de um novo membro da equipe seja mínimo. Também para manter o projeto ágil e organizado.
@@ -70,9 +71,15 @@ Como um navegador renderiza as informações na tela
 ###H2 (http2)
 
 ###Progressive enhancement
+Progressive enhancement is a strategy for web design that emphasizes core webpage content first. This strategy then progressively adds more nuanced and technically rigorous layers of presentation on top of the content as the end-user's browser/internet connection allow. The proposed benefits of this strategy are that it allows everyone to access the basic content and functionality of a web page, using any browser or Internet connection, while also providing an enhanced version of the page to those with more advanced browser software or greater bandwidth. [Wikipedia](https://en.wikipedia.org/wiki/Progressive_enhancement)
+- [The Case Against Progressive Enhancement's Flimsy Moral Foundation](https://www.viget.com/articles/the-case-against-progressive-enhancements-flimsy-moral-foundation)
 
 ###SVG
 
 ###Web animation API
 
 ###Regex
+
+###uilang
+A minimal, ui-focused programming language for web designers
+- [uilang](http://uilang.com/)
